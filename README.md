@@ -4,7 +4,7 @@ I am learning to turn business problems into data-driven decisions,
 with a focus on B2B sales and marketing.
 
 ## Why this repository
-in traditional companies, managers decide without data and analytics and Im here to help companies to improve their decision-making process via data and ai atoumation
+In traditional companies, managers often make decisions without relying on data or analytics. I'm here to help businesses improve their decision-making processes through data, AI, and automation.
 
 ## Learning path
 Business Problem → Data → Analysis → Evidence → Decision → AI → Automation → Business Value
