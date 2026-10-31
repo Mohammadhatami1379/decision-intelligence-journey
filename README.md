@@ -20,3 +20,4 @@ Business Problem → Data → Analysis → Evidence → Decision → AI → Auto
 
 ## About me
 I am an MSc IT management student with business administration background
+I aim to become a Decision Intelligence Analyst who helps B2B companies make better sales and marketing decisions with data and AI.
